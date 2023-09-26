@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyler Padgett</h1>
-<h3 align="center">I am a 4th year computer science major at San Diego State University.</h3>
+<h3 align="center">I am an Associate Full Stack Web Developer at XDimensional Technologies.</h3>
 
 - 🔭 I’m currently working on [GreekSuite](https://greek-suite.com)
 
